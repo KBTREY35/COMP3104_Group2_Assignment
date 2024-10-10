@@ -1,1 +1,1 @@
-COMP 3104 is a DevOps course focused on teaching students how to integrate development and operations processes. The course covers topics like continuous integration and deployment (CI/CD), version control systems such as Git, and automation tools.
+COMP 3104 is a DevOps course focused on teaching students how to integrate development and operations processes. The course covers topics like continuous integration and deployment, version control systems such as Git, and automation tools.
