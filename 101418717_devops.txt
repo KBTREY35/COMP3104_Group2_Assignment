@@ -6,3 +6,5 @@ DevOps fosters a culture of collaboration between development and operations tea
 - Jenkins: For continuous integration
 - Kubernetes: For orchestration
 - Ansible: For configuration management
+
+Automation is a key aspect of DevOps, enabling teams to reduce manual processes, speed up deployments, and ensure consistency across environments. Automated testing ensures that new code does not break existing functionality.
