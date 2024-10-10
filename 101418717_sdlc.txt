@@ -1,3 +1,4 @@
 Learning DevOps is crucial in the software development life cycle (SDLC) because it bridges the gap between development and operations teams. It helps automate repetitive tasks, streamline deployment processes, and improve collaboration.
 In an Agile environment, DevOps integrates seamlessly by automating workflows, enabling continuous feedback, and providing rapid iteration cycles for software development.
 Continuous Integration (CI) helps developers merge code changes more frequently by automating the building and testing of code with every commit, which reduces integration issues.
+Monitoring plays a crucial role in DevOps by providing real time insights into system performance and user experience. It helps teams detect issues early and respond quickly to maintain uptime and reliability.
