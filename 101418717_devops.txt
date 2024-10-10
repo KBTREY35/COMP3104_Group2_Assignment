@@ -1,1 +1,10 @@
-COMP 3104 is a DevOps course focused on teaching students how to integrate development and operations processes. The course covers topics like continuous integration and deployment (CI/CD), version control systems such as Git, and automation tools.
+COMP 3104 is a DevOps course focused on teaching students how to integrate development and operations processes. The course covers topics like continuous integration and deployment, version control systems such as Git, and automation tools.
+DevOps fosters a culture of collaboration between development and operations teams, leading to faster software releases and improved quality. It emphasizes automation in testing, deployment, and monitoring.
+
+ Common DevOps tools:
+- Docker: For containerization
+- Jenkins: For continuous integration
+- Kubernetes: For orchestration
+- Ansible: For configuration management
+
+Automation is a key aspect of DevOps, enabling teams to reduce manual processes, speed up deployments, and ensure consistency across environments. Automated testing ensures that new code does not break existing functionality.
