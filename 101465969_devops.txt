@@ -1,0 +1,5 @@
+The COMP3104: DevOps course provides students with an in-depth understanding of the principles and practices of DevOps, 
+focusing on the integration of development and operations to enhance software delivery and infrastructure management. 
+Through hands-on projects, students learn essential tools and techniques, including continuous integration and continuous deployment (CI/CD). 
+The course emphasizes collaboration, automation, and monitoring, equipping students with the skills needed to foster a culture of innovation 
+and efficiency in software development environments.

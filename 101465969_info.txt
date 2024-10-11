@@ -1,0 +1,7 @@
+This file is just some information about myself.
+First Name: Berlean
+Last Name: Gregori
+Student Number: 101465969
+Age: 24
+Program: T197
+Semester: 5

@@ -1,0 +1,7 @@
+T197 COURSES for Student 1014655969
+Web Application Development COMP3095 CRN:18344
+Mobile Application Development COMP3074 CRN:18343
+Capstone Project 1 COMP3059 CRN:18341
+Applied Data Science COMP3122 CRN:18345
+DEVOPS COMP3104 CRN:18342
+Full Stack Development COMP3123 CRN:18346

@@ -3,7 +3,7 @@
 
 ## Group Members
 - **Kevin** (Student ID: 101418717) - [GitHub](https://github.com/KBTREY35)
-- **Berlean** (Student ID: ) - [GitHub](https://github.com/)
+- **Berlean** (Student ID: 101465969) - [GitHub](https://github.com/berleangregori)
 
 ## Project Description
 This project is part of the COMP3104 DevOps course, focusing on practicing collaborative Git workflows, branching strategies, and setting up a Continuous Integration (CI) pipeline using GitHub Actions. The goal is to understand how to automate builds and tests as part of the DevOps lifecycle.
